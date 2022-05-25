@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Where am i"
+pwd "Where am i"
